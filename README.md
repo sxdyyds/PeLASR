@@ -27,6 +27,7 @@ python basicsr/train.py -opt options/train/train_PELASR_DF2K_d56n10_x4.yml
 ```python
 python basicsr/test.py -opt options/test/test_PELASR_DF2K_d56n10_x4.yml
 ```
+- Pretrained model is PeLASR_L_x4.pth.
 - X2, X3 are the same.
 - The test results will be in './results'.
 
