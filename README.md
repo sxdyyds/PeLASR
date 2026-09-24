@@ -54,6 +54,8 @@ python basicsr/test.py -opt options/test/test_PELASR_DF2K_d56n10_x4.yml
 
 ### Results
 
+![Figure_4](./figs/Figure4.pdf)
+
 ## Citation
 If you find this repository helpful, you may cite:
 
